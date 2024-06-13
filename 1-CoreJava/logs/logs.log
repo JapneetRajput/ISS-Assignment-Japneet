@@ -1,13 +1,13 @@
 18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Make: Toyota
 18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Model: Corolla
 18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Year: 2015
-18:54:15 [main] ERROR BasicsOfJava.Car - BasicsOfJava.Car Mileage: 50000.0
+18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Mileage: 50000.0
 18:54:15 [main] INFO  BasicsOfJava.Car - Driving 100.0 miles...
 18:54:15 [main] INFO  BasicsOfJava.Main - After driving:
 18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Make: Toyota
 18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Model: Corolla
 18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Year: 2015
-18:54:15 [main] ERROR BasicsOfJava.Car - BasicsOfJava.Car Mileage: 50100.0
+18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Mileage: 50100.0
 19:43:30 [main] INFO  BasicDatatypes.Car - Car Make: Toyota
 19:43:30 [main] INFO  BasicDatatypes.Car - Car Model: Corolla
 19:43:30 [main] INFO  BasicDatatypes.Car - Car Year: 2015

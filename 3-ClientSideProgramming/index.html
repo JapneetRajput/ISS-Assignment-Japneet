@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <form id="userForm">
+      <h2>User Form</h2>
+
+      <!-- Form Group for Name -->
+      <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
+        <div id="nameError" class="error"></div>
+      </div>
+
+      <!-- Form Group for Email -->
+      <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+        <div id="emailError" class="error"></div>
+      </div>
+
+      <!-- Form Group for Password -->
+      <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required />
+        <div id="passwordError" class="error"></div>
+      </div>
+
+      <!-- Form Group for Confirm Password -->
+      <div class="form-group">
+        <label for="confirmPassword">Confirm Password:</label>
+        <input
+          type="password"
+          id="confirmPassword"
+          name="confirmPassword"
+          required
+        />
+        <div id="confirmPasswordError" class="error"></div>
+      </div>
+
+      <!-- Form Group for Date of Birth -->
+      <div class="form-group">
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob" />
+      </div>
+
+      <!-- Form Group for Gender -->
+      <div class="form-group">
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+          <option value="">Select</option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+
+      <!-- Form Group for Comments -->
+      <div class="form-group">
+        <label for="comments">Comments:</label>
+        <textarea id="comments" name="comments" rows="4"></textarea>
+      </div>
+
+      <!-- Form Group for Submit Button -->
+      <div class="form-group">
+        <input type="submit" value="Submit" />
+      </div>
+    </form>
+
+    <script src="script.js"></script>
+  </body>
+</html>
