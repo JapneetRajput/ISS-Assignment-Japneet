@@ -1,0 +1,2 @@
+This is some sample content to write to the file.
+This is appended content.

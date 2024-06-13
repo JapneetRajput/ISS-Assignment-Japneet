@@ -1,0 +1,235 @@
+18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Make: Toyota
+18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Model: Corolla
+18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Year: 2015
+18:54:15 [main] ERROR BasicsOfJava.Car - BasicsOfJava.Car Mileage: 50000.0
+18:54:15 [main] INFO  BasicsOfJava.Car - Driving 100.0 miles...
+18:54:15 [main] INFO  BasicsOfJava.Main - After driving:
+18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Make: Toyota
+18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Model: Corolla
+18:54:15 [main] INFO  BasicsOfJava.Car - BasicsOfJava.Car Year: 2015
+18:54:15 [main] ERROR BasicsOfJava.Car - BasicsOfJava.Car Mileage: 50100.0
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Make: Toyota
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Model: Corolla
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Year: 2015
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Mileage: 50000.0
+19:43:30 [main] INFO  BasicDatatypes.Car - Car is Electric: false
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Energy Rating: B
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Engine Capacity: 1.8L
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Serial Number: 123456789012345
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Number of Doors: 4
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Warranty Years: 5
+19:43:30 [main] INFO  BasicDatatypes.Car - Car VIN: 1HGCM82633A123456
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Make: Honda
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Model: Civic
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Year: 2018
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Mileage: 30000.0
+19:43:30 [main] INFO  BasicDatatypes.Car - Car is Electric: true
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Energy Rating: A
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Engine Capacity: 2.0L
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Serial Number: 987654321098765
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Number of Doors: 4
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Warranty Years: 7
+19:43:30 [main] INFO  BasicDatatypes.Car - Car VIN: 1HGCM82633A654321
+19:43:30 [main] INFO  BasicDatatypes.Car - Driving 100.0 miles...
+19:43:30 [main] INFO  BasicDatatypes.Main - After driving:
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Make: Toyota
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Model: Corolla
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Year: 2015
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Mileage: 50100.0
+19:43:30 [main] INFO  BasicDatatypes.Car - Car is Electric: false
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Energy Rating: B
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Engine Capacity: 1.8L
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Serial Number: 123456789012345
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Number of Doors: 4
+19:43:30 [main] INFO  BasicDatatypes.Car - Car Warranty Years: 5
+19:43:30 [main] INFO  BasicDatatypes.Car - Car VIN: 1HGCM82633A123456
+19:43:30 [main] INFO  BasicDatatypes.Main - Total number of cars: 2
+19:51:48 [main] INFO  LoopControl.ScoreProcessor - Average Score: 70.45454545454545
+19:51:48 [main] INFO  LoopControl.ScoreProcessor - Highest Score: 92
+19:51:48 [main] INFO  LoopControl.ScoreProcessor - Lowest Score: 40
+19:51:48 [main] INFO  LoopControl.ScoreProcessor - Number of Students Passed: 9
+19:51:48 [main] INFO  LoopControl.ScoreProcessor - Number of Students Failed: 2
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 2 is even.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 2 is a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 2 is 2.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 3 is odd.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 3 is a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 3 is 6.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 4 is even.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 4 is not a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 4 is 24.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 5 is odd.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 5 is a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 5 is 120.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 6 is even.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 6 is not a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 6 is 720.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 7 is odd.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 7 is a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 7 is 5040.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 8 is even.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 8 is not a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 8 is 40320.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 9 is odd.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 9 is not a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 9 is 362880.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 10 is even.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - 10 is not a prime number.
+19:51:48 [main] INFO  LoopControl.NumberAnalyzer - Factorial of 10 is 3628800.
+20:01:45 [main] INFO  StringsAndArrays.Main - Original String: HelloWorld
+20:01:45 [main] INFO  StringsAndArrays.StringOperations - Reversing string: HelloWorld
+20:01:45 [main] INFO  StringsAndArrays.Main - Reversed String: dlroWolleH
+20:01:45 [main] INFO  StringsAndArrays.StringOperations - Counting vowels in string: HelloWorld
+20:01:45 [main] INFO  StringsAndArrays.Main - Number of Vowels: 3
+20:01:45 [main] INFO  StringsAndArrays.StringOperations - Checking if string is a palindrome: HelloWorld
+20:01:45 [main] INFO  StringsAndArrays.StringOperations - Reversing string: HelloWorld
+20:01:45 [main] INFO  StringsAndArrays.Main - Is Palindrome: false
+20:01:45 [main] INFO  StringsAndArrays.StringOperations - Concatenating strings: HelloWorld and 123
+20:01:45 [main] INFO  StringsAndArrays.Main - Concatenated String: HelloWorld123
+20:01:45 [main] INFO  StringsAndArrays.StringOperations - Checking if 'HelloWorld' contains substring: World
+20:01:45 [main] INFO  StringsAndArrays.Main - Contains 'World': true
+20:01:45 [main] INFO  StringsAndArrays.Main - Original Array: [10, 5, 3, 9, 2]
+20:01:45 [main] INFO  StringsAndArrays.ArrayOperations - Finding maximum value in array: [10, 5, 3, 9, 2]
+20:01:45 [main] INFO  StringsAndArrays.Main - Maximum Value: 10
+20:01:45 [main] INFO  StringsAndArrays.ArrayOperations - Finding minimum value in array: [10, 5, 3, 9, 2]
+20:01:45 [main] INFO  StringsAndArrays.Main - Minimum Value: 2
+20:01:45 [main] INFO  StringsAndArrays.ArrayOperations - Calculating average of array: [10, 5, 3, 9, 2]
+20:01:45 [main] INFO  StringsAndArrays.Main - Average Value: 5.8
+20:01:45 [main] INFO  StringsAndArrays.ArrayOperations - Searching for element 9 in array: [10, 5, 3, 9, 2]
+20:01:45 [main] INFO  StringsAndArrays.Main - Contains 9: true
+20:01:45 [main] INFO  StringsAndArrays.ArrayOperations - Sorting array: [10, 5, 3, 9, 2]
+20:01:45 [main] INFO  StringsAndArrays.Main - Sorted Array: [2, 3, 5, 9, 10]
+20:13:10 [main] INFO  OOPConcepts.Vehicle - Vehicle Make: Toyota
+20:13:10 [main] INFO  OOPConcepts.Vehicle - Vehicle Model: Corolla
+20:13:10 [main] INFO  OOPConcepts.Vehicle - Vehicle Year: 2020
+20:13:10 [main] INFO  OOPConcepts.Vehicle - Vehicle Make: Yamaha
+20:13:10 [main] INFO  OOPConcepts.Vehicle - Vehicle Model: MT-07
+20:13:10 [main] INFO  OOPConcepts.Vehicle - Vehicle Year: 2019
+20:13:10 [main] INFO  OOPConcepts.Car - Car engine started: Toyota Corolla
+20:13:10 [main] INFO  OOPConcepts.Bike - Bike engine started: Yamaha MT-07
+20:13:10 [main] INFO  OOPConcepts.Car - Car engine started: Toyota Corolla
+20:13:10 [main] INFO  OOPConcepts.Bike - Bike engine started: Yamaha MT-07
+20:13:10 [main] INFO  OOPConcepts.CarService - Performing service on car: Toyota Corolla
+20:13:10 [main] INFO  OOPConcepts.CarService - Performing service on car: Yamaha MT-07
+20:22:11 [main] INFO  ExceptionHandling.ExceptionHierarchyDemo - Accessing out of bounds index
+20:22:11 [main] ERROR ExceptionHandling.ExceptionHierarchyDemo - Caught ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 5
+20:22:11 [main] ERROR ExceptionHandling.ExceptionHandlingDemo - Caught ArithmeticException: / by zero
+20:22:11 [main] INFO  ExceptionHandling.ExceptionHandlingDemo - Finally block executed
+20:22:11 [main] ERROR ExceptionHandling.ThrowVsThrowsDemo - Caught CustomException: Age must be at least 18
+20:27:52 [main] INFO  CollectionOperations.ListOperations - Student List: [Student{ID=1, Name='Alice'}, Student{ID=2, Name='Bob'}, Student{ID=3, Name='Charlie'}]
+20:27:52 [main] INFO  CollectionOperations.ListOperations - After removing second student: [Student{ID=1, Name='Alice'}, Student{ID=3, Name='Charlie'}]
+20:27:52 [main] INFO  CollectionOperations.ListOperations - After updating second student: [Student{ID=1, Name='Alice'}, Student{ID=3, Name='Eve'}]
+20:27:52 [main] INFO  CollectionOperations.SetOperations - Student Set: [Student{ID=2, Name='Bob'}, Student{ID=1, Name='Alice'}, Student{ID=3, Name='Charlie'}]
+20:27:52 [main] INFO  CollectionOperations.SetOperations - After removing Bob: [Student{ID=1, Name='Alice'}, Student{ID=3, Name='Charlie'}]
+20:27:52 [main] INFO  CollectionOperations.SetOperations - Set contains Charlie: true
+20:27:52 [main] INFO  CollectionOperations.MapOperations - Student Map: {Student{ID=2, Name='Bob'}=Student{ID=3, Name='Charlie'}, Student{ID=1, Name='Alice'}=Student{ID=2, Name='Bob'}}
+20:27:52 [main] INFO  CollectionOperations.MapOperations - Partner of Alice: Student{ID=2, Name='Bob'}
+20:27:52 [main] INFO  CollectionOperations.MapOperations - After removing Bob's entry: {Student{ID=1, Name='Alice'}=Student{ID=2, Name='Bob'}}
+20:27:52 [main] INFO  CollectionOperations.MapOperations - Map contains Alice: true
+20:31:17 [main] INFO  CollectionOperations.ListOperations - Student List: [Student{ID=3, Name='Charlie'}, Student{ID=1, Name='Alice'}, Student{ID=2, Name='Bob'}]
+20:31:17 [main] INFO  CollectionOperations.ListOperations - After removing second student: [Student{ID=3, Name='Charlie'}, Student{ID=2, Name='Bob'}]
+20:31:17 [main] INFO  CollectionOperations.ListOperations - After updating second student: [Student{ID=3, Name='Charlie'}, Student{ID=3, Name='Eve'}]
+20:31:17 [main] INFO  CollectionOperations.ListOperations - Original Integer List: [5, 1, 4, 2, 3]
+20:31:17 [main] INFO  CollectionOperations.ListOperations - Sorted Integer List: [1, 2, 3, 4, 5]
+20:31:17 [main] INFO  CollectionOperations.ListOperations - Original Student List by ID: [Student{ID=3, Name='Charlie'}, Student{ID=1, Name='Alice'}, Student{ID=2, Name='Bob'}]
+20:31:17 [main] INFO  CollectionOperations.ListOperations - Sorted Student List by ID: [Student{ID=1, Name='Alice'}, Student{ID=2, Name='Bob'}, Student{ID=3, Name='Charlie'}]
+20:31:17 [main] INFO  CollectionOperations.ListOperations - Original Student List by Name: [Student{ID=3, Name='Charlie'}, Student{ID=1, Name='Alice'}, Student{ID=2, Name='Bob'}]
+20:31:17 [main] INFO  CollectionOperations.ListOperations - Sorted Student List by Name: [Student{ID=1, Name='Alice'}, Student{ID=2, Name='Bob'}, Student{ID=3, Name='Charlie'}]
+20:36:43 [pool-2-thread-3] INFO  MultithreadingConcepts.ThreadPoolExample - Task 3 is running.
+20:36:43 [pool-2-thread-2] INFO  MultithreadingConcepts.ThreadPoolExample - Task 2 is running.
+20:36:43 [pool-2-thread-1] INFO  MultithreadingConcepts.ThreadPoolExample - Task 1 is running.
+20:36:43 [Thread-0] INFO  MultithreadingConcepts.SimpleThread - Thread-1 - Count: 1
+20:36:43 [Thread-1] INFO  MultithreadingConcepts.SimpleThread - Thread-2 - Count: 1
+20:36:43 [Thread-2] INFO  MultithreadingConcepts.VolatileExample - Thread is running...
+20:36:43 [Thread-2] INFO  MultithreadingConcepts.VolatileExample - Thread is running...
+20:36:43 [pool-2-thread-2] INFO  MultithreadingConcepts.ThreadPoolExample - Task 2 is completed.
+20:36:43 [Thread-0] INFO  MultithreadingConcepts.SimpleThread - Thread-1 - Count: 2
+20:36:43 [pool-2-thread-3] INFO  MultithreadingConcepts.ThreadPoolExample - Task 3 is completed.
+20:36:43 [pool-2-thread-1] INFO  MultithreadingConcepts.ThreadPoolExample - Task 1 is completed.
+20:36:43 [pool-2-thread-2] INFO  MultithreadingConcepts.ThreadPoolExample - Task 4 is running.
+20:36:43 [pool-2-thread-3] INFO  MultithreadingConcepts.ThreadPoolExample - Task 5 is running.
+20:36:43 [Thread-1] INFO  MultithreadingConcepts.SimpleThread - Thread-2 - Count: 2
+20:36:44 [Thread-2] INFO  MultithreadingConcepts.VolatileExample - Thread is running...
+20:36:44 [Thread-0] INFO  MultithreadingConcepts.SimpleThread - Thread-1 - Count: 3
+20:36:44 [pool-2-thread-2] INFO  MultithreadingConcepts.ThreadPoolExample - Task 4 is completed.
+20:36:44 [pool-2-thread-3] INFO  MultithreadingConcepts.ThreadPoolExample - Task 5 is completed.
+20:36:44 [Thread-1] INFO  MultithreadingConcepts.SimpleThread - Thread-2 - Count: 3
+20:36:44 [Thread-2] INFO  MultithreadingConcepts.VolatileExample - Thread is running...
+20:36:44 [Thread-0] INFO  MultithreadingConcepts.SimpleThread - Thread-1 - Count: 4
+20:36:44 [Thread-1] INFO  MultithreadingConcepts.SimpleThread - Thread-2 - Count: 4
+20:36:45 [main] INFO  MultithreadingConcepts.VolatileExample - Thread stop signal sent.
+20:36:45 [LocalThread-2] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 1
+20:36:45 [InstanceThread-1] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Instance): 1
+20:36:45 [LocalThread-1] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 1
+20:36:45 [LocalThread-2] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 2
+20:36:45 [LocalThread-1] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 2
+20:36:45 [LocalThread-2] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 3
+20:36:45 [LocalThread-1] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 3
+20:36:45 [InstanceThread-2] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Instance): 2
+20:36:45 [LocalThread-1] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 4
+20:36:45 [LocalThread-2] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 4
+20:36:45 [LocalThread-1] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 5
+20:36:45 [LocalThread-2] INFO  MultithreadingConcepts.ThreadSafeExample - Counter (Local): 5
+20:36:45 [Thread-3] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-1 - synchronizedMethod: 1
+20:36:45 [Thread-2] INFO  MultithreadingConcepts.VolatileExample - Thread has stopped.
+20:36:45 [Thread-0] INFO  MultithreadingConcepts.SimpleThread - Thread-1 - Count: 5
+20:36:45 [Thread-1] INFO  MultithreadingConcepts.SimpleThread - Thread-2 - Count: 5
+20:36:45 [Thread-3] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-1 - synchronizedMethod: 2
+20:36:46 [Thread-3] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-1 - synchronizedMethod: 3
+20:36:46 [Thread-3] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-1 - synchronizedMethod: 4
+20:36:47 [Thread-3] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-1 - synchronizedMethod: 5
+20:36:47 [Thread-6] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-2 - synchronizedBlock: 1
+20:36:48 [Thread-6] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-2 - synchronizedBlock: 2
+20:36:48 [Thread-6] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-2 - synchronizedBlock: 3
+20:36:49 [Thread-6] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-2 - synchronizedBlock: 4
+20:36:49 [Thread-6] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-2 - synchronizedBlock: 5
+20:36:50 [Thread-5] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-1 - synchronizedBlock: 1
+20:36:50 [Thread-5] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-1 - synchronizedBlock: 2
+20:36:51 [Thread-5] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-1 - synchronizedBlock: 3
+20:36:51 [Thread-5] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-1 - synchronizedBlock: 4
+20:36:52 [Thread-5] INFO  MultithreadingConcepts.SynchronizationExample - SyncBlockThread-1 - synchronizedBlock: 5
+20:36:52 [Thread-4] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-2 - synchronizedMethod: 1
+20:36:53 [Thread-4] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-2 - synchronizedMethod: 2
+20:36:53 [Thread-4] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-2 - synchronizedMethod: 3
+20:36:54 [Thread-4] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-2 - synchronizedMethod: 4
+20:36:54 [Thread-4] INFO  MultithreadingConcepts.SynchronizationExample - SyncMethodThread-2 - synchronizedMethod: 5
+20:56:38 [main] INFO  JsonHandling.JsonFileOperations - Student data written to file: student.json
+20:56:38 [main] INFO  JsonHandling.JsonFileOperations - Student data read from file: Student{ID=1, Name='John Doe', Age=20}
+20:56:38 [main] INFO  JsonHandling.JsonStringOperations - Converted student to JSON string: {"id":1,"name":"John Doe","age":20}
+20:56:38 [main] INFO  JsonHandling.JsonStringOperations - Parsed JSON string to student: Student{ID=1, Name='John Doe', Age=20}
+20:57:22 [main] INFO  JsonHandling.JsonFileOperations - Student data written to file: student.json
+20:57:22 [main] INFO  JsonHandling.JsonFileOperations - Student data read from file: Student{ID=2, Name='Japneet Rajput', Age=22}
+20:57:22 [main] INFO  JsonHandling.JsonStringOperations - Converted student to JSON string: {"id":2,"name":"Japneet Rajput","age":22}
+20:57:22 [main] INFO  JsonHandling.JsonStringOperations - Parsed JSON string to student: Student{ID=2, Name='Japneet Rajput', Age=22}
+21:34:01 [main] ERROR XmlParser.XmlParser - Error parsing XML file: C:\Users\Arjun\IdeaProjects\Assignment\books.xml (The system cannot find the file specified)
+21:34:32 [main] INFO  XmlParser.XmlParser - Root element :library
+21:34:32 [main] INFO  XmlParser.XmlParser - ----------------------------
+21:34:32 [main] INFO  XmlParser.XmlParser - Title : The Lord of the Rings
+21:34:32 [main] INFO  XmlParser.XmlParser - Author : J. R. R. Tolkien
+21:34:32 [main] INFO  XmlParser.XmlParser - Year : 1954
+21:34:32 [main] INFO  XmlParser.XmlParser - ----------------------------
+21:34:32 [main] INFO  XmlParser.XmlParser - Title : Pride and Prejudice
+21:34:32 [main] INFO  XmlParser.XmlParser - Author : Jane Austen
+21:34:32 [main] INFO  XmlParser.XmlParser - Year : 1813
+21:34:32 [main] INFO  XmlParser.XmlParser - ----------------------------
+21:34:32 [main] INFO  XmlParser.XmlParser - Title : To Kill a Mockingbird
+21:34:32 [main] INFO  XmlParser.XmlParser - Author : Harper Lee
+21:34:32 [main] INFO  XmlParser.XmlParser - Year : 1960
+21:39:00 [main] INFO  FileOperations.FileUtil - Successfully wrote content to file: src\FileOperations\data.txt
+21:39:00 [main] INFO  FileOperations.Main - Successfully wrote content to file.
+21:39:00 [main] INFO  FileOperations.FileUtil - Successfully read file: src\FileOperations\data.txt
+21:39:00 [main] INFO  FileOperations.FileUtil - Successfully appended content to file: src\FileOperations\data.txt
+21:39:00 [main] INFO  FileOperations.Main - Successfully appended content to file.
+21:39:00 [main] INFO  FileOperations.FileUtil - Successfully copied file: src\FileOperations\data.txt to data_copy.txt
+21:39:00 [main] INFO  FileOperations.Main - Successfully copied file.
+21:39:40 [main] INFO  FileOperations.FileUtil - Successfully wrote content to file: src\FileOperations\data.txt
+21:39:40 [main] INFO  FileOperations.Main - Successfully wrote content to file.
+21:39:40 [main] INFO  FileOperations.FileUtil - Successfully read file: src\FileOperations\data.txt
+21:39:40 [main] INFO  FileOperations.FileUtil - Successfully appended content to file: src\FileOperations\data.txt
+21:39:40 [main] INFO  FileOperations.Main - Successfully appended content to file.
+21:39:40 [main] INFO  FileOperations.FileUtil - Successfully copied file: src\FileOperations\data.txt to src\FileOperations\data_copy.txt
+21:39:40 [main] INFO  FileOperations.Main - Successfully copied file.
+00:37:51 [main] INFO  JDBC.Main - Record created successfully!
+00:37:51 [main] INFO  JDBC.Main - Record retrieved: ID: 1, Name: Japneet Rajput, Email: japneetrajput2804@gmail.com
+00:37:51 [main] INFO  JDBC.Main - Record updated successfully!
+00:37:51 [main] INFO  JDBC.Main - Record deleted successfully!

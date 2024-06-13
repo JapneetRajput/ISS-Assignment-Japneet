@@ -1,0 +1,42 @@
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - Student ID: 1
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - First Name: Aarav
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - Last Name: Sharma
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - Course Name: Computer Science 101
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - Credits: 3
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - ----------------------------
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - Student ID: 1
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - First Name: Aarav
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - Last Name: Sharma
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - Course Name: Mathematics 101
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - Credits: 3
+22:51:44 [main] INFO  com.example.procedures.CallableStatementExample - ----------------------------
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Student ID: 1
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - First Name: Aarav
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Last Name: Sharma
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Major: Computer Science
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - GPA: 3.9
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - ----------------------------
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Student ID: 11
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - First Name: Ayaan
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Last Name: Mishra
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Major: Computer Science
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - GPA: 3.4
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - ----------------------------
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Student ID: 21
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - First Name: Vihaan
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Last Name: Chauhan
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Major: Computer Science
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - GPA: 3.7
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - ----------------------------
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Student ID: 31
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - First Name: Vivaan
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Last Name: Dubey
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Major: Computer Science
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - GPA: 3.5
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - ----------------------------
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Student ID: 41
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - First Name: Parth
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Last Name: Shetty
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - Major: Computer Science
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - GPA: 3.4
+22:57:57 [main] INFO  com.example.procedures.CallableStatementExample - ----------------------------
